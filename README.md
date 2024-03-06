@@ -99,4 +99,3 @@ Feel free to reach out if you have any questions or if you're interested in coll
 
 ###
 
-![Snake animation](https://github.com/AbulFaizBangi/AbulFaizBangi/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
