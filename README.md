@@ -2,31 +2,17 @@
 
 ## 🎓 Education
 
-- **Bachelor of Engineering**, Pune University, College of Engineering, Pune, IN (Aug 2024)
-- **Diploma in Electronics and Telecommunication**, MSBTE, MIT-Polytechnic, Pune, IN 
+- **Bachelor of Engineering**, Savitribai Phule Pune University, IN
+
 ## 🛠️ Skills
 
 - **Tools and Technologies**: Python, Cloud Computing, WordPress, Deep Learning, Dialogflow, Data Visualization, JavaScript, NLP, MATLAB, GCP, AWS, MySQL, Excel
-
-## 💼 Education
-
-- **PVG’s College of Engineering and Technology**,
-- **Bachelor of Engineering in Electronics and Telecommunication**
   
 ## 📝 Publications
 
 - [1] Abulfaiz Bangi. "Exploring the role of Transformers in NLP: From BERT to GPT-3." IRJET (in Journal)
 - [2] Dr. Rohini Kale, Abulfaiz Bangi, et al. "Smart Shopping System: A Quantitative Report on How Traditional Shopping Can Be Made Easier." IRJET (in Journal)
 
-## 🏆 Awards and Certifications
-
-- 2023, 1st/55, Inter-Departmental Mini-Project Competition
-- 2023, President, AIDEN's Club
-- 2023, Secretary, TESA Association
-- 2022, President, Lions Kondhwa Club
-- 2022, Semi-Finalist, Hack MIT-WPU Hackathon
-- 2021, Technical Head, Student Council
-- 2021, Runner Up, Smart India Hackathon
 
 ## 📫 How to reach me
 
