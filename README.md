@@ -24,6 +24,8 @@
 Feel free to reach out if you have any questions or if you're interested in collaborating on projects! 🚀
 .</h2>
 
+<h3 align="left">Connect with me:</h3><p align="left"><a href="https://www.linkedin.com/in/abulfaizbangi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" </a></p>
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJjbWwxMWJieDE1b3hsdDkzdzU4cjE3ZzJtMDFkNXJ2YTUzcGY0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3975CZuyQgoNVuOA/giphy.gif"  />
