@@ -1,12 +1,15 @@
 # AbulFaiz B.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbulFaizBangi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abulfaizbangi//) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bangiabul6699@gmail.com) [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/AbulFaizBangi) www.abulfaizbangi.com
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAbulFaizBangi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abulfaizbangi//) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bangiabul6699@gmail.com) [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/AbulFaizBangi) 
 
 Hi there! 👋 I'm Abul Faiz Bangi, a passionate Engineer with a strong focus on DevOps, MLOps, and Generative AI. I thrive on building scalable and efficient solutions, and I enjoy staying up-to-date with the latest industry trends.
 
 When I'm not coding, you’ll find me attending tech meetups to network and share knowledge with fellow enthusiasts. I believe in continuous learning and am always excited to explore new technologies and best practices.
 
 Feel free to check out my repositories, and let's connect! 😊
+
+My Personal Portfolio Website:
+www.abulfaizbangi.com
 
 ### 🖥 Skills
 
